@@ -4,7 +4,7 @@ My name is Vitor, I live in Brazil and i like work with Android.
 
 ![](therock.gif)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitor00almei)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitor00almei&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vitor00almei/vitor00almei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
