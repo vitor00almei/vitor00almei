@@ -2,7 +2,7 @@
 
 My name is Vitor, I live in Brazil and i like work with Android.
 
-![](therock.gif)
+![](pascal.gif)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitor00almei&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
